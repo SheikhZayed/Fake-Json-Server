@@ -1,6 +1,6 @@
 {
 "content":[
-{"id":1,"title":"This has a different Image from rest","img":"https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/06/beard-programmers-final-two.png"},
+{"id":1,"title":"changed backed to the same image","img":"https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/06/beard-programmers-final-two.png"},
   {"id":2,"title":"It Should be the Beard!","img":"https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/06/beard-programmers-final-two.png"},
   {"id":3,"title":"Is it in the Beard?","img":"https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/06/beard-programmers-final-two.png"},
  {"id":4,"title":"Beard!Beard!Beard!","img":"https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/06/beard-programmers-final-two.png"},
